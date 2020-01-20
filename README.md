@@ -21,7 +21,7 @@ The model achieves an accuracy of 94.29% on the validation data.
 The accuracy achieved is pretty decent considering the uneven distribution of images in various classes:
 ![Class Distribution](https://github.com/harshaldesai01/Math-Expression-Recognizer/blob/master/snaps/class_dist.jpg)
 
-## Script
+## Scripts
 
 **inkml2img.py**: The code for extracting traces of different expressions from a given InkML format equation.\
 **convert.py**: Converts InkML files to images.\
